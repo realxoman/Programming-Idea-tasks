@@ -1,0 +1,1 @@
+print ("Now, Say my name"); esm = input (); print ("You're goddamn right.") if esm == "Heisenburg" else print ("lol no")
