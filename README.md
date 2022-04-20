@@ -1,2 +1,3 @@
 # Programming-Idea-tasks
-Programming Idea Tasks
+This repo has created for share some programming idea tasks for My Friends.
+
