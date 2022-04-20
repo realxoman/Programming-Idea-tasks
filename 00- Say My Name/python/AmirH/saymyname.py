@@ -1,3 +1,2 @@
-# Bache Joon:|
-
-print('hi')
+# Amo Ali
+# Hallo
