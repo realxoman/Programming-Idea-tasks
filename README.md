@@ -9,3 +9,4 @@ Folder Structures:
 ## Current Languages:
 - Python
 - TypeScript
+- JavaScript
